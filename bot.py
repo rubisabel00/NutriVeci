@@ -14,7 +14,7 @@ logging.basicConfig(
     level=logging.INFO
 )
 
-BOT_TOKEN = "7863497038:AAEdk_qpb7u_qPi_-lWBHdoWAC3wtSesk1Y"
+BOT_TOKEN = "ESCRIBE_TU_TOKEN_AQUI"  # Reemplaza con tu token de bot de Telegram
 
 # Estados para la conversación
 NOMBRE, EDAD, CONDICIONES, MENU_SELECTION = range(4)
